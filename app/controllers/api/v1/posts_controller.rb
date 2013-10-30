@@ -1,2 +1,2 @@
-class PostsController < ApplicationController
+class Api::V1::PostsController < ApplicationController
 end
