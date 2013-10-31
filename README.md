@@ -1,1 +1,1 @@
-[walkthrough](http://www.devmynd.com/blog/2013-10-rails-ember-js-updated)
+[walkthrough](http://www.devmynd.com/blog/2013-10-live-on-the-edge-with-rails-ember-js)
